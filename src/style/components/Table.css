@@ -1,0 +1,74 @@
+.blue-box {
+  background: #003be5;
+  border-radius: 10px;
+  box-shadow: -4px 9px 13px rgba(3, 107, 82, 0.3);
+  height: 464px;
+  left: 63px;
+  position: absolute;
+  top: 156px;
+  width: 1155px;
+  z-index: 1;
+}
+
+table {
+  background-color: #003be5;
+  border-collapse: collapse;
+  height: 129px;
+  left: 55px;
+  position: absolute;
+  top: 270px;
+  width: 1040px;
+}
+
+th {
+  background: #003be5;
+  border-left: 1px solid white;
+  color: white;
+  font-size: 12px;
+  height: 53.2px;
+  width: 110px;
+}
+
+.desc {
+  border: none;
+}
+
+tbody {
+  background: #003be5;
+}
+
+td {
+  background: #003be5;
+  border-top: 1px solid white;
+  color: #2fc18c;
+  font-size: 12px;
+  height: 20px;
+  padding: 2px;
+  text-align: center;
+}
+
+button {
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  font-size: small;
+  font-weight: 700;
+  height: 25px;
+  margin-right: 10px;
+  text-align: center;
+  width: 20px;
+}
+
+.deletebtn {
+  background: url('delete.png') no-repeat;
+  background-position: center;
+  color: rgba(0, 0, 0, 0);
+}
+
+.editbtn {
+  background: url('edit.png') no-repeat;
+  background-position: center;
+  color: rgba(0, 0, 0, 0);
+}
+
